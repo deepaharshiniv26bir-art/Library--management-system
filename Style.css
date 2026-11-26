@@ -1,0 +1,14 @@
+
+
+- { box-sizing: border-box; font-family: Arial, sans-serif; }
+body { margin: 0; background: #eef2f7; }
+header { background: #1e3a5f; color: white; padding: 20px; text-align: center; font-size: 28px; font-weight: bold; }
+.container { max-width: 900px; margin: 20px auto; background: white; padding: 20px; border-radius: 12px; }
+h2 { color: #1e3a5f; }
+input { width: 100%; padding: 12px; margin: 8px 0; border: 1px solid #ccc; border-radius: 8px; font-size: 15px; }
+.add-btn { width: 100%; background: #2563eb; color: white; border: none; padding: 13px; border-radius: 8px; font-size: 16px; cursor: pointer; }
+table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+th { background: #dbeafe; padding: 12px; text-align: left; }
+td { padding: 12px; border-bottom: 1px solid #ddd; }
+.issue-btn { background: #22c55e; color: white; border: none; padding: 6px 12px; border-radius: 6px; cursor: pointer; }
+.delete-btn { background: #ef4444; color: white; border: none; padding: 6px 12px; border-radius: 6px; cursor: pointer; margin-left: 5px; }
