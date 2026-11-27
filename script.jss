@@ -1,6 +1,5 @@
 
 
-let books = http://JSON.parse(localStorage.getItem("books")) || [];
 
 function addBook() {
 let name = http://document.getElementById("bookName").value;
